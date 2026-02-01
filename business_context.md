@@ -1,11 +1,16 @@
 ## Business Context
 
-This project simulates a retail organization that wants to monitor
-sales performance across regions, product categories, and time.
+E-commerce businesses rely heavily on shipment and fulfillment performance
+to maintain customer satisfaction and control operational costs.
 
-The objective is to provide business stakeholders with a clear,
-interactive dashboard that supports:
-- Revenue tracking
-- Growth analysis
-- Product and regional performance comparison
-- Data-driven decision-making
+This dashboard simulates an Amazon-style sales environment where stakeholders
+need visibility into:
+- Order fulfillment status
+- Cancellation and return rates
+- Revenue contribution by product categories and sizes
+- High-level and detailed SKU performance
+
+The dashboard is intended for:
+- Business analysts
+- Operations managers
+- Supply chain and fulfillment teams
