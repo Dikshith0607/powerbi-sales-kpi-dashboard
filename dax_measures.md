@@ -1,13 +1,21 @@
-## Key KPIs
+## DAX Measures Used
 
-The dashboard focuses on the following business KPIs:
+### Total Turnover
+Calculated as the total sales amount across all orders.
 
-- Total Revenue
-- Total Profit
-- Units Sold
-- Average Order Value (AOV)
-- Year-over-Year (YoY) Revenue Growth
-- Month-over-Month (MoM) Trend
+### Total Products Sold
+Sum of quantity across completed and shipped orders.
 
-These KPIs are commonly used by management to evaluate
-overall business performance and identify improvement areas.
+### Revenue by Category
+Aggregated sales amount grouped by product category.
+
+### Quantity by Delivery Status
+Used to analyze shipment lifecycle stages such as:
+- Shipped
+- Delivered to Buyer
+- Cancelled
+- Pending
+- Returned
+
+### Time-based Filters
+Date and Month slicers allow trend analysis and period comparison.
